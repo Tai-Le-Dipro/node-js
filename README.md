@@ -15,8 +15,9 @@ This guide is intended to provide guidance to high-performance, safe, and mainta
 ## Contents
 1. ``Usage``
 2. ``Pre-requisites``
-
-
+3. ``Default Users``
+4. ``Basic Commands``
+5. ``Database Commands``
 ## Usage
 
 <mark>Create .env file base on .env.example. Replace the DATABASE_URL to match with your local database server before go to next steps.</mark>
@@ -30,10 +31,6 @@ git clone "https://github.com/dipro-vn/homepage-rebuild.git"
 * #### zsh:
 ```sh
 git clone "git@github.com:dipro-vn/homepage-rebuild.git"
-```
-* #### Move into project folder
-```sh
-cd <project_directory>
 ```
 
 ### Accessing your database with Prisma Client
