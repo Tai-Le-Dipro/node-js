@@ -19,7 +19,7 @@ This guide is intended to provide guidance to high-performance, safe, and mainta
 
 ## Usage
 
-Create .env file base on .env.example then run below command
+<mark>Create .env file base on .env.example. Replace the DATABASE_URL to match with your local database server before go to next steps.</mark>
 
 ### Pull Source Code
 * #### https:
